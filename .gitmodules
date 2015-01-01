@@ -1,3 +1,6 @@
 [submodule "wordgame"]
 	path = wordgame
 	url = https://github.com/moof2k/wordgame
+[submodule "mathgame"]
+	path = mathgame
+	url = https://github.com/moof2k/mathgame.git
