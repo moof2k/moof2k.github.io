@@ -4,3 +4,6 @@
 [submodule "mathgame"]
 	path = mathgame
 	url = https://github.com/moof2k/mathgame.git
+[submodule "editable"]
+	path = editable
+	url = https://github.com/moof2k/editable.git
