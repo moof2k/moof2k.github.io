@@ -7,3 +7,6 @@
 [submodule "editable"]
 	path = editable
 	url = https://github.com/moof2k/editable.git
+[submodule "mathtable"]
+	path = mathtable
+	url = https://github.com/moof2k/mathtable.git
