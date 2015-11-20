@@ -3,10 +3,7 @@
 	url = https://github.com/moof2k/wordgame
 [submodule "mathgame"]
 	path = mathgame
-	url = https://github.com/moof2k/mathgame.git
-[submodule "editable"]
-	path = editable
-	url = https://github.com/moof2k/editable.git
+	url = https://github.com/moof2k/mathgame
 [submodule "mathtable"]
 	path = mathtable
-	url = https://github.com/moof2k/mathtable.git
+	url = https://github.com/moof2k/mathtable
