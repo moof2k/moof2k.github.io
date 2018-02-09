@@ -7,3 +7,6 @@
 [submodule "mathtable"]
 	path = mathtable
 	url = https://github.com/moof2k/mathtable
+[submodule "spelling_game"]
+	path = spelling_game
+	url = https://github.com/moof2k/spelling_game
